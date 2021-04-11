@@ -17,7 +17,7 @@ const data = {
   ],
     products: [
       {
-        _id: '1',
+       
         name: 'Grey Basin Tap',
         category: 'Plumbing',
         image: './images/grey_basin_tap.jpg ',
@@ -30,7 +30,7 @@ const data = {
       },
 
       {
-        _id: '2',
+       
         name: 'kitchen Tap',
         category: 'Plumbing',
         image: './images/kitchen_mixer.jpeg',
@@ -42,7 +42,7 @@ const data = {
         description: 'Kitchen Wash Basin Mixer tap',
       },
       {
-        _id: '3',
+     
         name: 'Wash Basin',
         category: 'Plumbing',
         image: './images/ceramic_washbasin.jpg',
@@ -54,7 +54,7 @@ const data = {
         description: 'Ceramic washbasin',
       },
       {
-        _id: '4',
+       
         name: 'Modern Wash basin',
         category: 'Plumbing',
         image: './images/Baasin.jpg',
@@ -66,7 +66,7 @@ const data = {
         description: 'Stylish stone basin for living room',
       },
       {
-        _id: '5',
+      
         name: 'parking tiles(1pc)',
         category: 'Tiles',
         image: './images/parking-tiles.jpeg',
@@ -78,7 +78,7 @@ const data = {
         description: 'Thickness: 14 mm, Size: 305x305 mm.',
       },
       {
-        _id: '6',
+        
         name: 'Modren Car Parking tiles(1pc)',
         category: 'Tiles',
         image: './images/car_parking_tiles.jpg',
